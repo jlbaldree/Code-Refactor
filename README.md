@@ -1,19 +1,21 @@
 # 01 HTML CSS Git: Code Refactor
 
+Somehow I lost my first README.md and this is my second go but it's good because I refactored a little much to of the html and css the point where I probably broke something.
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+I tried to adhere to the Scout Rule: 
 
 > Always leave the code you are editing a little cleaner than you found it.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+I tried to reduce the redundancies 
 
 ## User Story
 
 ```
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+I think my code follows accessibility standards, mostly...
+Our site is now optimized for search engines
 ```
 
 ## Acceptance Criteria
@@ -34,7 +36,7 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-You are required to submit the following for review:
+I hope I don't forget this part:
 
 * The URL of the deployed application.
 
